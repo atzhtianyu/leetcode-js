@@ -13,7 +13,7 @@ https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7
 
 
 
-| index |                      itle                      |                             Code                             | Difficulty |
+| index |                     Title                      |                             Code                             | Difficulty |
 | :---: | :--------------------------------------------: | :----------------------------------------------------------: | :--------: |
 | 0001  |                    Two Sum                     | [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0001.two-sum.js) |    Easy    |
 | 0002  |                Add Two Numbers                 | [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0002.add-two-numbers.js) |   Medium   |
