@@ -7,6 +7,9 @@
 function isSubsequence(str, sub) {
     let index = -1;
     for (let i = 0; i < sub.length; i++) {
+        // str.indexOf(searchValue [, fromIndex])
+        // searchValue: 要被查找的字符串值
+        // fromIndex(可选): 数字表示开始查找的位置。可以是任意整数，默认值为 0。
         index = str.indexOf(sub[i], index + 1);
         if (index === -1) {
             return false;
