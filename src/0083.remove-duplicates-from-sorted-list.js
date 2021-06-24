@@ -16,6 +16,7 @@
  * 时间复杂度：O(N)O(N)，对链表每个节点遍历了一次；
  * 空间复杂度：O(1)O(1)，只使用了常量的空间。
  */
+
 var deleteDuplicates = function (head) {
     if (!head) {
         return head;
@@ -43,6 +44,7 @@ var deleteDuplicates = function (head) {
  * 时间复杂度：O(N)O(N)，每个节点访问了一次。
  * 空间复杂度：O(N)O(N)，递归调用的时候会用到了系统的栈。
  */
+
 var deleteDuplicates = function (head) {
     if (head === null || head.next === null) return head;
     head.next = deleteDuplicates(head.next);

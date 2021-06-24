@@ -13,6 +13,7 @@ var reverseList = function (head) {
     let reverseHead = new ListNode();
     let curNode = head;
     let nextNode = null;
+    // 头插法
     while (curNode) {
         nextNode = curNode.next;
         curNode.next = reverseHead.next;

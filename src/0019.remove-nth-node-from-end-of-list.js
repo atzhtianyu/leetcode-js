@@ -11,7 +11,7 @@
  * @return {ListNode}
  */
 var removeNthFromEnd = function (head, n) {
-    // 这里 new 一个 newHead，防止只有一个元素时，right.next 报错的bug
+    // 这里 new 一个 newHead，防止只有一个元素时，right.next 报错的 bug
     const newHead = new ListNode();
     newHead.next = head;
     let left = newHead;

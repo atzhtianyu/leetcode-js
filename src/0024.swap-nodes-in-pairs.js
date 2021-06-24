@@ -13,7 +13,9 @@ var swapPairs = function (head) {
     const dummyHead = new ListNode();
     dummyHead.next = head;
     let prev = dummyHead;
+    // 判断要交换的两个节点是否存在
     while (head !== null && head.next !== null) {
+        // 两个指针无法完成，那就再加一个指针
         const next = head.next;
         head.next = next.next;
         prev.next = next;

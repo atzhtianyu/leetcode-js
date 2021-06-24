@@ -33,6 +33,7 @@ var mergeTwoLists = function (l1, l2) {
 var mergeTwoLists = function (l1, l2) {
     const prehead = new ListNode(-1);
     let prev = prehead;
+
     while (l1 && l2) {
         if (l1.val < l2.val) {
             prev.next = l1;
@@ -43,6 +44,7 @@ var mergeTwoLists = function (l1, l2) {
         }
         prev = prev.next;
     }
+    
     prev.next = l1 !== null ? l1 : l2;
     return prehead.next;
 };
