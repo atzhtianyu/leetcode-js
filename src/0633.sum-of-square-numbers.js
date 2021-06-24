@@ -20,7 +20,7 @@ var judgeSquareSum = function (c) {
 };
 
 /**
- * 方法一：双指针
+ * 方法二：双指针
  * 
  * 可以看成是在元素为 0~target 的有序数组中查找两个数，使得这两个数的平方和为 target
  * 如果能找到，则返回 true，表示 target 是两个整数的平方和。
