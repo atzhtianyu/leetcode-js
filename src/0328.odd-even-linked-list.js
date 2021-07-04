@@ -17,6 +17,7 @@ var oddEvenList = function (head) {
     const evenHead = head.next;
     let oddNode = oddHead;
     let evenNode = evenHead;
+    // 交叉分离，先奇后偶
     while (oddNode.next && evenNode.next) {
         oddNode.next = oddNode.next.next;
         oddNode = oddNode.next;
