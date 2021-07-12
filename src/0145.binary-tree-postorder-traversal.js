@@ -55,9 +55,13 @@ var postorderTraversal = function (root) {
         root = stack.pop();
         if (root.right === null || root.right === prev) {
             res.push(root.val);
+            // 右子树出栈的时候，每次出栈root不断上移，下一次循环时还会判断是否有右子树；
+            // 如果不加prev就会陷入死循环~
+            // 加个prev做个判断，只有没有遍历过的右子树才能入栈
             prev = root;
             root = null;
         } else {
+            // 如果右节点不为空，则将 root 结点 push 回去，然后处理右子树
             stack.push(root);
             root = root.right;
         }
