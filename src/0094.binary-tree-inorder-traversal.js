@@ -10,38 +10,33 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-// 递归
+// 递归 (箭头函数)
 var inorderTraversal = function (root) {
     let res = [];
-    inorder(root, res);
+    const inorder = (root) => {
+        if (!root) {
+            return;
+        }
+        inorder(root.left, res);
+        res.push(root.val);
+        inorder(root.right, res);
+    }
+    inorder(root);
     return res;
 };
 
-var inorder = function (root, res) {
-    if (!root) {
-        return;
-    }
-    inorder(root.left, res);
-    res.push(root.val);
-    inorder(root.right, res);
-}
-
 // 迭代
 var inorderTraversal = function (root) {
-    let res = [];
-    let stack = [];
-    if (root) {
-        stack.push(root);
-    }
-    while (stack.length) {
-        const node = stack.pop();
-        res.push(node.val);
-        if (node.right) {
-            stack.push(node.right);
+    const res = [];
+    const stack = [];
+    while (root || stack.length) {
+        while (root) {
+            stack.push(root);
+            root = root.left;
         }
-        if (node.left) {
-            stack.push(node.left);
-        }
+        root = stack.pop();
+        res.push(root.val);
+        root = root.right;
     }
     return res;
 };
