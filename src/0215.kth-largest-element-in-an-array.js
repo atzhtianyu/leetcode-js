@@ -93,6 +93,7 @@ let maxHeapify = (nums, i, heapSize) => {
     let l = i * 2 + 1;
     let r = i * 2 + 2;
     let largest = i;
+    // 下面的两个 if 语句，需要判断 l 或 r 是否小于 heapSize，将后边的数字排除在外
     if (l < heapSize && nums[l] > nums[largest]) {
         largest = l;
     }
