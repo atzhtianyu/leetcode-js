@@ -97,7 +97,6 @@ var myAtoi = function (str) {
     return automaton.sign * automaton.num;
 };
 
-
 // 题目规则为 JavaScript 世界中的 parseInt() 这一 API 的转换规则，可以简单的使用 parseInt 转换
 // 自动机的思想还是非常重要的
 

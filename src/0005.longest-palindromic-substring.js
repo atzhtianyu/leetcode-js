@@ -10,17 +10,14 @@ var longestPalindrome = function (s) {
     let res = "";
 
     for (let i = 0; i < s.length; i++) {
-
         // 回文子串长度为奇数（如 aba，中心是 b）
         palindromic(i, i);
 
         // 回文子串长度为偶数（如 abba，中心是 b，b）
         palindromic(i, i + 1);
-
     }
 
     function palindromic(m, n) {
-
         while (m >= 0 && n < s.length && s[m] == s[n]) {
             m--;
             n++;
