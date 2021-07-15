@@ -3,6 +3,7 @@
  * @param {number} limit
  * @return {number}
  */
+// 贪心（双指针）
 var numRescueBoats = function (people, limit) {
     people.sort((a, b) => a - b);
     let left = 0;
