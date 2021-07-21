@@ -15,3 +15,16 @@ var reverseString = function(s) {
     }
     return s;
 };
+
+// 练习递归(不推荐)
+var reverseString = function (s) {
+    reversion(s, 0, s.length - 1);
+}
+
+var reversion = function (s, left, right) {
+    if (left >= right) {
+        return;
+    }
+    reversion(s, left + 1, right - 1);
+    [s[left], s[right]] = [s[right], s[left]];
+}
