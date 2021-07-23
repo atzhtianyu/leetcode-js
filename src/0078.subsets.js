@@ -23,16 +23,34 @@ var subsets = function (nums) {
 
 // 回溯法
 var subsets = function (nums) {
-    function backTracking(list, nums, sequence, index) {
+    function backTracking(list, nums, res, index) {
         // list.slice() 用于返回一个与 list 相同的数组
-        sequence.push(list.slice());
+        res.push(list.slice());
         for (let i = index; i < nums.length; i++) {
             list.push(nums[i]);
-            backTracking(list, nums, sequence, i + 1);
+            backTracking(list, nums, res, i + 1);
             list.pop();
         }
     }
-    const sequence = [];
-    backTracking([], nums, sequence, 0);
-    return sequence;
+    const res = [];
+    backTracking([], nums, res, 0);
+    return res;
 };
+
+// dfs
+var subsets = function (nums) {
+    const t = [];
+    const ans = [];
+    const dfs = (cur) => {
+        if (cur === nums.length) {
+            ans.push(t.slice());
+            return;
+        }
+        t.push(nums[cur]);
+        dfs(cur + 1);
+        t.pop();
+        dfs(cur + 1);
+    }
+    dfs(0);
+    return ans;
+}
