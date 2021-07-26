@@ -13,8 +13,8 @@
 /**
  * 当我们遍历到链表的最后一个节点时，cur.next 为空节点，如果不加以判断，访问 cur.next 对应的元素会产生运行错误。
  * 因此我们只需要遍历到链表的最后一个节点，而不需要遍历完整个链表。
- * 时间复杂度：O(N)O(N)，对链表每个节点遍历了一次；
- * 空间复杂度：O(1)O(1)，只使用了常量的空间。
+ * 时间复杂度：O(N)，对链表每个节点遍历了一次；
+ * 空间复杂度：O(1)，只使用了常量的空间。
  */
 
 var deleteDuplicates = function (head) {
@@ -41,8 +41,8 @@ var deleteDuplicates = function (head) {
  * 比较好理解，因为要把后面去重的链表拼接到当前 head 节点之后；
  * 当 head.val == head.next.val 时， head 节点要删除，所以 return head.next ，
  * 如果我们不把 head.next = self.deleteDuplicates(head.next)， 那么 return 的结果是原始 head.next ，所以仍然是没去重。
- * 时间复杂度：O(N)O(N)，每个节点访问了一次。
- * 空间复杂度：O(N)O(N)，递归调用的时候会用到了系统的栈。
+ * 时间复杂度：O(N)，每个节点访问了一次。
+ * 空间复杂度：O(N)，递归调用的时候会用到了系统的栈。
  */
 
 var deleteDuplicates = function (head) {
