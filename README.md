@@ -39,6 +39,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0104  |              maximum-depth-of-binary-tree               |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0104.maximum-depth-of-binary-tree.js)               |    Easy    |
 | 0107  |          binary-tree-level-order-traversal-ii           |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0107.binary-tree-level-order-traversal-ii.js)           |   Medium   |
 | 0122  |           best-time-to-buy-and-sell-stock-ii            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0122.best-time-to-buy-and-sell-stock-ii.js)            |    Easy    |
+| 0136  |                      single-number                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0136.single-number.js)                      |    Easy    |
 | 0141  |                 0141.linked-list-cycle                  |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0141.linked-list-cycle.js)                    |    Easy    |
 | 0144  |             binary-tree-preorder-traversal              |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0144.binary-tree-preorder-traversal.js)              |    Easy    |
 | 0145  |             binary-tree-postorder-traversal             |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0145.binary-tree-postorder-traversal.js)             |    Easy    |
@@ -59,6 +60,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0328  |                  odd-even-linked-list                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0328.odd-even-linked-list.js)                   |   Medium   |
 | 0344  |                     reverse-string                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0344.reverse-string.js)                      |    Easy    |
 | 0345  |               Reverse Vowels of a String                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
+| 0350  |               intersection-of-two-arrays-ii                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0350.intersection-of-two-arrays-ii.js)                |    Easy    |
 | 0389  |                   find-the-difference                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0389.find-the-difference.js)                   |    Easy    |
 | 0445  |                   add-two-numbers-ii                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0445.add-two-numbers-ii.js)                    |   Medium   |
 | 0485  |                  max-consecutive-ones                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0485.max-consecutive-ones.js)                   |    Easy    |
