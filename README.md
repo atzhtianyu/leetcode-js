@@ -30,6 +30,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0035  |                 search-insert-position                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0035.search-insert-position.js)                  |    Easy    |
 | 0053  |                    maximum-subarray                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0053.maximum-subarray.js)                     |    Easy    |
 | 0055  |                        jump-game                        |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0055.jump-game.js)                        |   Medium   |
+| 0066  |                        plus-one                         |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0066.plus-one.js)                         |    Easy    |
 | 0074  |                   search-a-2d-matrix                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0074.search-a-2d-matrix.js)                    |   Medium   |
 | 0078  |                         subsets                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0078.subsets.js)                         |   Medium   |
 | 0083  |           remove-duplicates-from-sorted-list            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0083.remove-duplicates-from-sorted-list.js)            |    Easy    |
@@ -60,7 +61,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0328  |                  odd-even-linked-list                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0328.odd-even-linked-list.js)                   |   Medium   |
 | 0344  |                     reverse-string                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0344.reverse-string.js)                      |    Easy    |
 | 0345  |               Reverse Vowels of a String                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
-| 0350  |               intersection-of-two-arrays-ii                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0350.intersection-of-two-arrays-ii.js)                |    Easy    |
+| 0350  |              intersection-of-two-arrays-ii              |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0350.intersection-of-two-arrays-ii.js)              |    Easy    |
 | 0389  |                   find-the-difference                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0389.find-the-difference.js)                   |    Easy    |
 | 0445  |                   add-two-numbers-ii                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0445.add-two-numbers-ii.js)                    |   Medium   |
 | 0485  |                  max-consecutive-ones                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0485.max-consecutive-ones.js)                   |    Easy    |
