@@ -28,6 +28,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0026  |           remove-duplicates-from-sorted-array           |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0026.remove-duplicates-from-sorted-array.js)           |    Easy    |
 | 0027  |                     remove-element                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0027.remove-element.js)                      |    Easy    |
 | 0035  |                 search-insert-position                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0035.search-insert-position.js)                  |    Easy    |
+| 0036  |                 valid-sudoku                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0036.valid-sudoku.js)                  |    Easy    |
 | 0053  |                    maximum-subarray                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0053.maximum-subarray.js)                     |    Easy    |
 | 0055  |                        jump-game                        |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0055.jump-game.js)                        |   Medium   |
 | 0066  |                        plus-one                         |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0066.plus-one.js)                         |    Easy    |
