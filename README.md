@@ -66,6 +66,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0389  |                   find-the-difference                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0389.find-the-difference.js)                   |    Easy    |
 | 0414  |                  third-maximum-number                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0414.third-maximum-number.js)                   |    Easy    |
 | 0445  |                   add-two-numbers-ii                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0445.add-two-numbers-ii.js)                    |   Medium   |
+| 0448  |        find-all-numbers-disappeared-in-an-array         |        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0448.find-all-numbers-disappeared-in-an-array.js)         |    Easy    |
 | 0485  |                  max-consecutive-ones                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0485.max-consecutive-ones.js)                   |    Easy    |
 | 0495  |                     teemo-attacking                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0495.teemo-attacking.js)                     |    Easy    |
 | 0496  |                 next-greater-element-i                  |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
@@ -75,6 +76,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0633  |                  Sum of Square Numbers                  |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0633.sum-of-square-numbers.js)                  |   Medium   |
 | 0645  |                      set-mismatch                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0645.set-mismatch.js)                       |    Easy    |
 | 0680  |                   Valid Palindrome II                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0680.valid-palindrome-ii.js)                   |    Easy    |
+| 0697  |                   degree-of-an-array                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0697.degree-of-an-array.js)                    |    Easy    |
 | 0704  |                      binary-search                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0704.binary-search.js)                      |    Easy    |
 | 0705  |                     design-hashset                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0705.design-hashset.js)                      |    Easy    |
 | 0725  |               split-linked-list-in-parts                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0725.split-linked-list-in-parts.js)                |   Medium   |
