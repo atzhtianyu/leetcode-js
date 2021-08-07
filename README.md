@@ -59,6 +59,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0215  |             kth-largest-element-in-an-array             |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0215.kth-largest-element-in-an-array.js)             |   Medium   |
 | 0217  |                   contains-duplicate                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0200.number-of-islands.js)                    |    Easy    |
 | 0234  |                 palindrome-linked-list                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0234.palindrome-linked-list.js)                  |    Easy    |
+| 0274  |                         h-index                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0274.h-index.js)                         |   Medium   |
 | 0283  |                       move-zeroes                       |                       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0283.move-zeroes.js)                       |    Easy    |
 | 0328  |                  odd-even-linked-list                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0328.odd-even-linked-list.js)                   |   Medium   |
 | 0344  |                     reverse-string                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0344.reverse-string.js)                      |    Easy    |
