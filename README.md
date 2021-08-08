@@ -70,6 +70,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0442  |             find-all-duplicates-in-an-array             |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0442.find-all-duplicates-in-an-array.js)             |   Medium   |
 | 0445  |                   add-two-numbers-ii                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0445.add-two-numbers-ii.js)                    |   Medium   |
 | 0448  |        find-all-numbers-disappeared-in-an-array         |        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0448.find-all-numbers-disappeared-in-an-array.js)         |    Easy    |
+| 0453  |          minimum-moves-to-equal-array-elements          |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0453.minimum-moves-to-equal-array-elements.js)          |    Easy    |
 | 0485  |                  max-consecutive-ones                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0485.max-consecutive-ones.js)                   |    Easy    |
 | 0495  |                     teemo-attacking                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0495.teemo-attacking.js)                     |    Easy    |
 | 0496  |                 next-greater-element-i                  |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
