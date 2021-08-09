@@ -41,6 +41,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0102  |            binary-tree-level-order-traversal            |            [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0102.binary-tree-level-order-traversal.js)            |   Medium   |
 | 0104  |              maximum-depth-of-binary-tree               |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0104.maximum-depth-of-binary-tree.js)               |    Easy    |
 | 0107  |          binary-tree-level-order-traversal-ii           |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0107.binary-tree-level-order-traversal-ii.js)           |   Medium   |
+| 0118  |                    pascals-triangle                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0118.pascals-triangle.js)                     |    Easy    |
 | 0122  |           best-time-to-buy-and-sell-stock-ii            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0122.best-time-to-buy-and-sell-stock-ii.js)            |    Easy    |
 | 0136  |                      single-number                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0136.single-number.js)                      |    Easy    |
 | 0141  |                 0141.linked-list-cycle                  |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0141.linked-list-cycle.js)                    |    Easy    |
@@ -79,7 +80,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0628  |            maximum-product-of-three-numbers             |            [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0628.maximum-product-of-three-numbers.js)             |    Easy    |
 | 0633  |                  Sum of Square Numbers                  |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0633.sum-of-square-numbers.js)                  |   Medium   |
 | 0645  |                      set-mismatch                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0645.set-mismatch.js)                       |    Easy    |
-| 0665  |                  non-decreasing-array                  |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0665.non-decreasing-array.js)                  |   Medium   |
+| 0665  |                  non-decreasing-array                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0665.non-decreasing-array.js)                   |   Medium   |
 | 0680  |                   Valid Palindrome II                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0680.valid-palindrome-ii.js)                   |    Easy    |
 | 0697  |                   degree-of-an-array                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0697.degree-of-an-array.js)                    |    Easy    |
 | 0704  |                      binary-search                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0704.binary-search.js)                      |    Easy    |
