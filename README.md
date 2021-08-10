@@ -42,6 +42,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0104  |              maximum-depth-of-binary-tree               |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0104.maximum-depth-of-binary-tree.js)               |    Easy    |
 | 0107  |          binary-tree-level-order-traversal-ii           |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0107.binary-tree-level-order-traversal-ii.js)           |   Medium   |
 | 0118  |                    pascals-triangle                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0118.pascals-triangle.js)                     |    Easy    |
+| 0119  |                   pascals-triangle-ii                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0119.pascals-triangle-ii.js)                   |    Easy    |
 | 0122  |           best-time-to-buy-and-sell-stock-ii            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0122.best-time-to-buy-and-sell-stock-ii.js)            |    Easy    |
 | 0136  |                      single-number                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0136.single-number.js)                      |    Easy    |
 | 0141  |                 0141.linked-list-cycle                  |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0141.linked-list-cycle.js)                    |    Easy    |
