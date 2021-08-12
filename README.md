@@ -68,6 +68,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0345  |               Reverse Vowels of a String                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
 | 0350  |              intersection-of-two-arrays-ii              |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0350.intersection-of-two-arrays-ii.js)              |    Easy    |
 | 0389  |                   find-the-difference                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0389.find-the-difference.js)                   |    Easy    |
+| 0396  |                     rotate-function                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0396.rotate-function.js)                     |   Medium   |
 | 0414  |                  third-maximum-number                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0414.third-maximum-number.js)                   |    Easy    |
 | 0419  |                 battleships-in-a-board                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0419.battleships-in-a-board.js)                  |   Medium   |
 | 0442  |             find-all-duplicates-in-an-array             |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0442.find-all-duplicates-in-an-array.js)             |   Medium   |
