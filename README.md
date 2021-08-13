@@ -80,6 +80,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0485  |                  max-consecutive-ones                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0485.max-consecutive-ones.js)                   |    Easy    |
 | 0495  |                     teemo-attacking                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0495.teemo-attacking.js)                     |    Easy    |
 | 0496  |                 next-greater-element-i                  |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
+| 0498  |                    diagonal-traverse                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0498.diagonal-traverse.js)                    |   Medium   |
 | 0509  |                    fibonacci-number                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0509.fibonacci-number.js)                     |    Easy    |
 | 0524  |       longest-word-in-dictionary-through-deleting       |       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0524.longest-word-in-dictionary-through-deleting.js)       |   Medium   |
 | 0598  |                    range-addition-ii                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0598.range-addition-ii.js)                    |    Easy    |
