@@ -33,6 +33,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0053  |                    maximum-subarray                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0053.maximum-subarray.js)                     |    Easy    |
 | 0054  |                      spiral-matrix                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0054.spiral-matrix.js)                      |   Medium   |
 | 0055  |                        jump-game                        |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0055.jump-game.js)                        |   Medium   |
+| 0059  |                    spiral-matrix-ii                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0059.spiral-matrix-ii.js)                     |   Medium   |
 | 0066  |                        plus-one                         |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0066.plus-one.js)                         |    Easy    |
 | 0074  |                   search-a-2d-matrix                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0074.search-a-2d-matrix.js)                    |   Medium   |
 | 0078  |                         subsets                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0078.subsets.js)                         |   Medium   |
