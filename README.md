@@ -30,6 +30,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0035  |                 search-insert-position                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0035.search-insert-position.js)                  |    Easy    |
 | 0036  |                      valid-sudoku                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0036.valid-sudoku.js)                       |    Easy    |
 | 0041  |                 first-missing-positive                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0041.first-missing-positive.js)                  |    Hard    |
+| 0048  |                      rotate-image                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0048.rotate-image.js)                       |    Easy    |
 | 0053  |                    maximum-subarray                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0053.maximum-subarray.js)                     |    Easy    |
 | 0054  |                      spiral-matrix                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0054.spiral-matrix.js)                      |   Medium   |
 | 0055  |                        jump-game                        |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0055.jump-game.js)                        |   Medium   |
@@ -83,6 +84,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0498  |                    diagonal-traverse                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0498.diagonal-traverse.js)                    |   Medium   |
 | 0509  |                    fibonacci-number                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0509.fibonacci-number.js)                     |    Easy    |
 | 0524  |       longest-word-in-dictionary-through-deleting       |       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0524.longest-word-in-dictionary-through-deleting.js)       |   Medium   |
+| 0566  |                   reshape-the-matrix                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0566.reshape-the-matrix.js)                    |    Easy    |
 | 0598  |                    range-addition-ii                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0598.range-addition-ii.js)                    |    Easy    |
 | 0628  |            maximum-product-of-three-numbers             |            [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0628.maximum-product-of-three-numbers.js)             |    Easy    |
 | 0661  |                     image-smoother                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0661.image-smoother.js)                      |    Easy    |
