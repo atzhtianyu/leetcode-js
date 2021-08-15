@@ -20,6 +20,7 @@ var rotate = function (matrix) {
 };
 
 // 原地旋转
+// matrix[col][n−row−1] = matrix[row][col]
 var rotate = function (matrix) {
     const n = matrix.length;
     for (let i = 0; i < Math.floor(n / 2); i++) {

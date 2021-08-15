@@ -36,6 +36,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0055  |                        jump-game                        |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0055.jump-game.js)                        |   Medium   |
 | 0059  |                    spiral-matrix-ii                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0059.spiral-matrix-ii.js)                     |   Medium   |
 | 0066  |                        plus-one                         |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0066.plus-one.js)                         |    Easy    |
+| 0073  |                    set-matrix-zeroes                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0073.set-matrix-zeroes.js)                    |   Medium   |
 | 0074  |                   search-a-2d-matrix                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0074.search-a-2d-matrix.js)                    |   Medium   |
 | 0078  |                         subsets                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0078.subsets.js)                         |   Medium   |
 | 0083  |           remove-duplicates-from-sorted-list            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0083.remove-duplicates-from-sorted-list.js)            |    Easy    |
