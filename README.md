@@ -68,6 +68,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0274  |                         h-index                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0274.h-index.js)                         |   Medium   |
 | 0283  |                       move-zeroes                       |                       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0283.move-zeroes.js)                       |    Easy    |
 | 0289  |                      game-of-life                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0289.game-of-life.js)                       |   Medium   |
+| 0303  |                range-sum-query-immutable                |                [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/303.range-sum-query-immutable.js)                 |    Easy    |
 | 0328  |                  odd-even-linked-list                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0328.odd-even-linked-list.js)                   |   Medium   |
 | 0344  |                     reverse-string                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0344.reverse-string.js)                      |    Easy    |
 | 0345  |               Reverse Vowels of a String                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
