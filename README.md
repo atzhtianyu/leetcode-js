@@ -63,7 +63,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0206  |                   reverse-linked-list                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0206.reverse-linked-list.js)                   |    Easy    |
 | 0209  |                minimum-size-subarray-sum                |                [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0209.minimum-size-subarray-sum.js)                |   Medium   |
 | 0215  |             kth-largest-element-in-an-array             |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0215.kth-largest-element-in-an-array.js)             |   Medium   |
-| 0217  |                   contains-duplicate                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0200.number-of-islands.js)                    |    Easy    |
+| 0217  |                   contains-duplicate                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0217.number-of-islands.js)                    |    Easy    |
 | 0234  |                 palindrome-linked-list                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0234.palindrome-linked-list.js)                  |    Easy    |
 | 0238  |              product-of-array-except-self               |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0238.product-of-array-except-self.js)               |   Medium   |
 | 0274  |                         h-index                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0274.h-index.js)                         |   Medium   |
@@ -88,6 +88,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0496  |                 next-greater-element-i                  |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
 | 0498  |                    diagonal-traverse                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0498.diagonal-traverse.js)                    |   Medium   |
 | 0509  |                    fibonacci-number                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0509.fibonacci-number.js)                     |    Easy    |
+| 0520  |                    detect-capital                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0520.detect-capital.js)                     |    Easy    |
 | 0524  |       longest-word-in-dictionary-through-deleting       |       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0524.longest-word-in-dictionary-through-deleting.js)       |   Medium   |
 | 0566  |                   reshape-the-matrix                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0566.reshape-the-matrix.js)                    |    Easy    |
 | 0598  |                    range-addition-ii                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0598.range-addition-ii.js)                    |    Easy    |
