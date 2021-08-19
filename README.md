@@ -22,6 +22,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0006  |                    ZigZag Conversion                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0006.zigzag-conversion.js)                    |   Medium   |
 | 0007  |                     Reverse Integer                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0007.reverse-integer.js)                     |    Easy    |
 | 0008  |                String to Integer (atoi)                 |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0008.string-to-integer-atoi.js)                  |   Medium   |
+| 0014  |                  longest-common-prefix                  |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0014.longest-common-prefix.js)                  |    Easy    |
 | 0019  |            remove-nth-node-from-end-of-list             |            [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0019.remove-nth-node-from-end-of-list.js)             |   Medium   |
 | 0020  |                    valid-parentheses                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0020.valid-parentheses.js)                    |    Easy    |
 | 0024  |                   swap-nodes-in-pairs                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0024.swap-nodes-in-pairs.js)                   |   Medium   |
