@@ -4,7 +4,7 @@
  */
 // 库函数
 var reverseString = function (s) {
-    return s.reverse();
+    s = s.reverse();
 };
 
 // 双指针
@@ -13,7 +13,6 @@ var reverseString = function(s) {
     while (l++ < r--) {
         [s[l], s[r]] = [s[r], s[l]];
     }
-    return s;
 };
 
 // 练习递归(不推荐)

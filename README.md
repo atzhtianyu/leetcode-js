@@ -94,6 +94,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0509  |                    fibonacci-number                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0509.fibonacci-number.js)                     |    Easy    |
 | 0520  |                     detect-capital                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0520.detect-capital.js)                      |    Easy    |
 | 0524  |       longest-word-in-dictionary-through-deleting       |       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0524.longest-word-in-dictionary-through-deleting.js)       |   Medium   |
+| 0541  |                    reverse-string-ii                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0541.reverse-string-ii.js)                    |    Easy    |
 | 0566  |                   reshape-the-matrix                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0566.reshape-the-matrix.js)                    |    Easy    |
 | 0598  |                    range-addition-ii                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0598.range-addition-ii.js)                    |    Easy    |
 | 0628  |            maximum-product-of-three-numbers             |            [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0628.maximum-product-of-three-numbers.js)             |    Easy    |
