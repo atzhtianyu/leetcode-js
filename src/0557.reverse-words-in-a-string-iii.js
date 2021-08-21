@@ -15,7 +15,9 @@ var reverseWords = function (s) {
 
 // split
 var reverseWords = function (s) {
+    // 整个反转
     let arr = s.split("").reverse().join("");
+    // 每个单词反转
     return arr.split(" ").reverse().join(" ");
 };
 
