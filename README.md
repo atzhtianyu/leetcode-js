@@ -79,6 +79,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0344  |                     reverse-string                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0344.reverse-string.js)                      |    Easy    |
 | 0345  |               Reverse Vowels of a String                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0345.reverse-vowels-of-a-string.js)                |    Easy    |
 | 0350  |              intersection-of-two-arrays-ii              |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0350.intersection-of-two-arrays-ii.js)              |    Easy    |
+| 0387  |           first-unique-character-in-a-string            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0387.first-unique-character-in-a-string.js)            |    Easy    |
 | 0389  |                   find-the-difference                   |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0389.find-the-difference.js)                   |    Easy    |
 | 0396  |                     rotate-function                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0396.rotate-function.js)                     |   Medium   |
 | 0414  |                  third-maximum-number                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0414.third-maximum-number.js)                   |    Easy    |
