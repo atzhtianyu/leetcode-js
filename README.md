@@ -70,6 +70,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0217  |                   contains-duplicate                    |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0217.number-of-islands.js)                    |    Easy    |
 | 0234  |                 palindrome-linked-list                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0234.palindrome-linked-list.js)                  |    Easy    |
 | 0238  |              product-of-array-except-self               |              [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0238.product-of-array-except-self.js)               |   Medium   |
+| 0242  |                      valid-anagram                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0242.valid-anagram.js)                      |    Easy    |
 | 0274  |                         h-index                         |                         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0274.h-index.js)                         |   Medium   |
 | 0283  |                       move-zeroes                       |                       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0283.move-zeroes.js)                       |    Easy    |
 | 0289  |                      game-of-life                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0289.game-of-life.js)                       |   Medium   |
