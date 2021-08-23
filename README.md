@@ -32,6 +32,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0036  |                      valid-sudoku                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0036.valid-sudoku.js)                       |    Easy    |
 | 0041  |                 first-missing-positive                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0041.first-missing-positive.js)                  |    Hard    |
 | 0048  |                      rotate-image                       |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0048.rotate-image.js)                       |    Easy    |
+| 0049  |                     group-anagrams                      |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0049.group-anagrams.js)                      |   Medium   |
 | 0053  |                    maximum-subarray                     |                    [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0053.maximum-subarray.js)                     |    Easy    |
 | 0054  |                      spiral-matrix                      |                      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0054.spiral-matrix.js)                      |   Medium   |
 | 0055  |                        jump-game                        |                        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0055.jump-game.js)                        |   Medium   |
