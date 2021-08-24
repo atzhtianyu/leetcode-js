@@ -87,6 +87,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 0396  |                     rotate-function                     |                     [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0396.rotate-function.js)                     |   Medium   |
 | 0414  |                  third-maximum-number                   |                  [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0414.third-maximum-number.js)                   |    Easy    |
 | 0419  |                 battleships-in-a-board                  |                 [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0419.battleships-in-a-board.js)                  |   Medium   |
+| 0423  |        reconstruct-original-digits-from-english         |        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0423.reconstruct-original-digits-from-english.js)         |   Medium   |
 | 0434  |             number-of-segments-in-a-string              |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0434.number-of-segments-in-a-string.js)              |    Easy    |
 | 0442  |             find-all-duplicates-in-an-array             |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0442.find-all-duplicates-in-an-array.js)             |   Medium   |
 | 0445  |                   add-two-numbers-ii                    |                   [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/0445.add-two-numbers-ii.js)                    |   Medium   |
