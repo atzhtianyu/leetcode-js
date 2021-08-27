@@ -127,3 +127,4 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 剑指 offer 24 |                fan-zhuan-lian-biao-lcof                 |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer24.fan-zhuan-lian-biao-lcof.js)             |    Easy    |
 | 剑指 offer 30 |             bao-han-minhan-shu-de-zhan-lcof             |         [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer30.bao-han-minhan-shu-de-zhan-lcof.js)          |    Easy    |
 | 剑指 offer 35 |             fu-za-lian-biao-de-fu-zhi-lcof              |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer35.fu-za-lian-biao-de-fu-zhi-lcof.js)          |   Medium   |
+| 剑指 offer 58 |           II.zuo-xuan-zhuan-zi-fu-chuan-lcof            |        [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer58.II.zuo-xuan-zhuan-zi-fu-chuan-lcof.js)        |    Easy    |
