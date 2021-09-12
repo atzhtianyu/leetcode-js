@@ -2,14 +2,6 @@
 
 LeetCode JavaScript 实现
 
-本题解大部分思路来自于：
-
-https://github.com/jiangshanmeta/meta
-
-https://github.com/CyC2018/CS-Notes
-
-https://www.bilibili.com/video/BV1sy4y1q79M
-
 ## 目录
 
 |     index     |                          Title                          |                                                                    Code                                                                     | Difficulty |
@@ -131,6 +123,7 @@ https://www.bilibili.com/video/BV1sy4y1q79M
 | 剑指 offer 10 |           II.qing-wa-tiao-tai-jie-wen-ti-lcof           |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer10.II.qing-wa-tiao-tai-jie-wen-ti-lcof.js)           |    Easy    |
 | 剑指 offer 11 |        xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof        |       [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer11.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.js)        |    Easy    |
 | 剑指 offer 12 |              ju-zhen-zhong-de-lu-jing-lcof              |             [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer.12.ju-zhen-zhong-de-lu-jing-lcof.js)             |   Medium   |
+| 剑指 offer 13 |           ji-qi-ren-de-yun-dong-fan-wei-lcof            |           [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer13.ji-qi-ren-de-yun-dong-fan-wei-lcof.js)           |   Medium   |
 | 剑指 offer 18 |           shan-chu-lian-biao-de-jie-dian-lcof           |          [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer18.shan-chu-lian-biao-de-jie-dian-lcof.js)           |    Easy    |
 | 剑指 offer 21 |                diao-zheng-shu-zu-shun-xu                |               [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer21.diao-zheng-shu-zu-shun-xu.js)                |    Easy    |
 | 剑指 offer 22 |      lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof       |      [JavaScript](https://github.com/atzhtianyu/leetcode-js/blob/main/src/剑指offer22.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.js)      |    Easy    |
